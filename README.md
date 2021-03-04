@@ -3,6 +3,8 @@
 Pig eBank is a Javascript application hosted on Heroku that allows students to login and create their own virtual bank account in a safe environment. 
 Students learn about budgeting, transferring funds, requesting loans in this easy to navigate web application. 
 
+![kidsbankingapp](https://user-images.githubusercontent.com/52722861/109906037-c0089700-7c6d-11eb-912b-e8ed3fa6b068.png)
+
 
 ## Installing <kidsbankingapp>
 
