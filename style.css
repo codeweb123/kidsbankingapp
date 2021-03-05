@@ -21,7 +21,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 5rem;
+    padding: 1rem 7rem;
     background-color: #f1f1f1;
   }
   
@@ -31,9 +31,13 @@
   }
   
   .logo {
-    height: 25rem;
+    height: 11rem;
     ;
   }
+  .mountain {
+    height:30rem;
+  }
+
   
   .login {
     display: flex;
@@ -95,7 +99,7 @@
   .splash {
     display: block;
     text-align: center;
-    padding: 20rem;
+    padding: 7rem 26rem 20rem 26rem;
   }
   
   .balance {
